@@ -1,1 +1,2 @@
-First milestone project for 2022 Complete Python Bootcamp From Zero to Hero in Python by Jose Portilla
+This is my first milestone project from the Udemy 2021 Complete Python Bootcamp From Zero to Hero in Python.
+https://www.udemy.com/course/complete-python-bootcamp/
